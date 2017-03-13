@@ -16,13 +16,16 @@
       </div>
     </div>
       <div class="col-md-6">
+
         <form class="formulario" action="http://industriajemac.com.mx/wp-content/themes/metal_theme%20%28copia%29/enviar.php" method="post">
+
           <h2 class="tituloFormulario">contacto</h2>
           <input class="inputFormulario"type="text" name="Nombre" value="" placeholder="Nombre" required="">
           <input class="inputFormulario"type="text" name="Correo" value="" placeholder="Correo" required="">
           <input class="inputFormulario"type="text" name="Telefono" value="" placeholder="Telefono" required="">
           <textarea class="inputFormulario textFormulario"name="Mensaje" rows="8" cols="40" placeholder="Dejenos su mensaje" required=""></textarea>
           <input class="inputFormulario"type="submit" name="enviar" value="Enviar" id="botonn">
+
         </form>
       </div>
   </div>
