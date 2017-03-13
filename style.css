@@ -480,3 +480,41 @@ border-left: 1px solid #b9b7b4;
   right: 0;
   top: 0;
 }
+.formulario{
+  width: 100%;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+.tituloFormulario{
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.inputFormulario{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 16px;
+  border: none;
+}
+.textFormulario{
+  min-height: 50px;
+  max-height: 200px;
+  max-width: 100%;
+}
+#botonn{
+  background: rgb(67, 110, 120);
+  color: #fff;
+  padding: 20px;
+}
+#botonn:hover{
+  cursor: pointer;
+}
