@@ -1,32 +1,48 @@
 <section id="containerAcercaDe">
   <div class="container">
-    <div class="row">
-      <div class="col-md-7">
 
-          <div class="divCaracteristica"style="border-left:1px solid rgb(202, 201, 207);">
-
-            <h3 class="TituloAcercaDe enLinea">entregas a domicilio</h3>
-            <p class="parrafoAcercaDe">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <div class="row indexServicios">
+        <div class="filtro">
+          <div class="col-md-6 tituloAlineado">
+            <h3 class="text-center tituloIndex">Servicios</h3>
           </div>
-          <div class="divCaracteristica">
+          <div class="col-md-6">
+            <p class="parrafoIndex font-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 
-            <h3 class="TituloAcercaDe enLinea">pulido y encerado</h3>
-            <p class="parrafoAcercaDe">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
           </div>
-          <div class="divCaracteristica "style="border-left:1px solid rgb(202, 201, 207);">
-
-            <h3 class="TituloAcercaDe enLinea">cromado de piezas</h3>
-            <p class="parrafoAcercaDe">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-
+        </div>
       </div>
-      <div class="col-md-5">
+
+            <div class="row indexNosotros">
+              <div class="filtro">
+                <div class="col-md-6 ">
+                  <p class="parrafoIndex font-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 
 
-                <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgAcercaDe" style="width:100%; height:500px;">
+                </div>
+                <div class="col-md-6 tituloAlineado">
+                  <h3 class="text-center tituloIndex">Nosotros</h3>
+                </div>
 
-      </div>
-    </div>
+              </div>
+            </div>
+
+                  <div class="row indexAsesoria">
+                    <div class="filtro">
+                      <div class="col-md-6 tituloAlineado">
+                        <h3 class="text-center tituloIndex">Asesoria</h3>
+                      </div>
+                      <div class="col-md-6 ">
+                        <p class="parrafoIndex font-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+                      </div>
+                    </div>
+                  </div>
+
+
+
   </div>
 
 </section>
