@@ -573,7 +573,7 @@ border-left: 1px solid #b9b7b4;
   margin-bottom: 0px;
 }
 .indexServicios{
-    background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/corte.JPG");
+    background-image: url("img/corte.JPG");
 
     height: 400px;
     background-size: cover;
@@ -585,7 +585,7 @@ border-left: 1px solid #b9b7b4;
 
 }
 .indexNosotros{
-    background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/corte.JPG");
+    background-image: url("img/corte.JPG");
 
     height: 400px;
     background-size: cover;
@@ -596,18 +596,7 @@ border-left: 1px solid #b9b7b4;
 
 
 }
-.indexAsesoria{
-    background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/corte.JPG");
 
-    height: 400px;
-    background-size: cover;
-    padding: 5em;
-    border: 1px solid black;
-    box-shadow: 3px 5px rgb(182, 182, 182);
-    margin-bottom: 2em;
-
-
-}
 .filtro{
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
