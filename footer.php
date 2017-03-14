@@ -3,9 +3,40 @@
       <div class="container" >
         <div class="row" style="height:auto;">
           <div class="col-md-6">
-            <p class=""><i class="fa fa-volume-control-phone" aria-hidden="true"> </i> 7751544642</p>
-            <p class=""><i class="fa fa-envelope" aria-hidden="true"> </i> contacto@jemac.com</p>
+            <p class=""><i class="fa fa-volume-control-phone" aria-hidden="true"> </i> (791) 913 2313</p>
             <p class=""><i class="fa fa-map-marker" aria-hidden="true"> </i> Parque industrial Sahagun #15, Cd. Sahagun, Hidalgo.</p>
+            <ul class="contact-list">
+            <li>
+              <strong>Ventas</strong>
+              <address class="">
+                <a href="mailto:ventas@industriajemac.com.mx"><i class="fa fa-envelope" aria-hidden="true"> </i> ventas@industriajemac.com.mx</a>
+              </address>
+            </li>
+            <li>
+              <strong>Recursos Humanos</strong>
+              <address class="">
+                <a href="mailto:sgc@industriajemac.com.mx"><i class="fa fa-envelope" aria-hidden="true"> </i> sgc@industriajemac.com.mx</a>
+              </address>
+            </li>
+            <li>
+              <strong>Producción</strong>
+              <address class="">
+                <a href="mailto:produccion@industriajemac.com.mx"><i class="fa fa-envelope" aria-hidden="true"> </i> produccion@industriajemac.com.mx</a>
+              </address>
+            </li>
+            <li>
+              <strong>Contabilidad</strong>
+              <address class="">
+                <a href="mailto:contabilidad@industrijemac.com.mx"><i class="fa fa-envelope" aria-hidden="true"> </i> contabilidad@industrijemac.com.mx</a>
+              </address>
+            </li>
+            <li>
+              <strong>Ingeniería</strong>
+              <address class="">
+                <a href="mailto:calidad.ingenieria@industriajemac.com.mx"><i class="fa fa-envelope" aria-hidden="true"> </i> calidad.ingenieria@industriajemac.com.mx</a>
+              </address>
+            </li>
+          </ul>
           </div>
           <div class="col-md-6">
             <i class="fa fa-facebook-official fa-2x ifooter" style="color:#3b5998; margin:0.5em;" aria-hidden="true"><a href="#"></a></i>

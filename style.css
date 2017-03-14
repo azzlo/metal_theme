@@ -122,6 +122,16 @@ h6{
 .correo1{
   margin-left: 1em;
 }
+
+.map-container{
+  color: white;
+  margin-top: 1em;
+  background: #00757d;
+}
+.map-container address{
+  padding: .3em 0 0 1em;
+  margin-bottom: .5em;
+}
 .pieCopy{
   background-color:#222;
   color: #E5E1D1;
@@ -134,9 +144,20 @@ h6{
   color: white;
   padding: 1.6em;
 }
-#footer1:hover{
+  #footer1 .contact-list{
+    padding-left: 0;
+  }
 
-}
+  #footer1 .contact-list i{
+    color: white;
+  }
+  #footer1 .contact-list a{
+    color: #67d1ff;
+  }
+  #footer1 .contact-list address{
+    margin-bottom: .5em;
+  }
+
 .pieTelefono{
   display: inline-block;
   width: 30%;
@@ -374,6 +395,12 @@ ul.asesorias-ul{
 .contact_form input:focus:invalid, .contact_form textarea:focus:invalid {
 	box-shadow: 0 0 5px #d45252;
 	border-color: #b03535
+}
+
+.contact-list{
+  text-align: left;
+  list-style-type: none;
+  margin-top: 1em;
 }
 button.submit {
     padding: 9px 17px;
