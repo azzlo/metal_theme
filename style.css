@@ -130,6 +130,7 @@ h6{
 }
 .map-container address{
   padding: .3em 0 0 1em;
+  margin-bottom: .5em;
 }
 .pieCopy{
   background-color:#222;

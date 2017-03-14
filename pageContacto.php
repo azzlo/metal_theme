@@ -12,31 +12,31 @@
         <li>
           <strong>Ventas</strong>
           <address class="">
-            ventas@industriajemac.com.mx
+            <a href="mailto:ventas@industriajemac.com.mx">ventas@industriajemac.com.mx</a>
           </address>
         </li>
         <li>
           <strong>Recursos Humanos</strong>
           <address class="">
-            sgc@industriajemac.com.mx
+            <a href="mailto:sgc@industriajemac.com.mx">sgc@industriajemac.com.mx</a>
           </address>
         </li>
         <li>
           <strong>Producción</strong>
           <address class="">
-            produccion@industriajemac.com.mx
+            <a href="mailto:produccion@industriajemac.com.mx">produccion@industriajemac.com.mx</a>
           </address>
         </li>
         <li>
           <strong>Contabilidad</strong>
           <address class="">
-            contabilidad@industrijemac.com.mx
+            <a href="mailto:contabilidad@industrijemac.com.mx">contabilidad@industrijemac.com.mx</a>
           </address>
         </li>
         <li>
           <strong>Ingeniería</strong>
           <address class="">
-            calidad.ingenieria@industriajemac.com.mx
+            <a href="mailto:calidad.ingenieria@industriajemac.com.mx">calidad.ingenieria@industriajemac.com.mx</a>
           </address>
         </li>
       </ul>
@@ -53,7 +53,7 @@
     </div>
   </div>
   <div class="row map-container">
-    <address class="font-big">
+    <address>
       <strong>Nuestra ubicación: </strong>
       Av. Domingo Muñoz Chimalpain 92, Tadeo de Niza,
       43996 Cd Sahagún, Hgo.
