@@ -25,7 +25,7 @@
               <p class="headerTelefono"><i class="fa fa-mobile" aria-hidden="true"> </i> (791) 913 2313</p>
             </div>
             <div class="contactoHeader">
-              <p class="headerCorreo"><i class="fa fa-envelope-o" aria-hidden="true"> </i> atencion@industriajemac.com.mx</p>
+              <p class="headerCorreo"><i class="fa fa-envelope-o" aria-hidden="true"> </i> ventas@industriajemac.com.mx</p>
             </div>
 
           </div>

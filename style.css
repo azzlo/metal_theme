@@ -144,9 +144,20 @@ h6{
   color: white;
   padding: 1.6em;
 }
-#footer1:hover{
+  #footer1 .contact-list{
+    padding-left: 0;
+  }
 
-}
+  #footer1 .contact-list i{
+    color: white;
+  }
+  #footer1 .contact-list a{
+    color: #67d1ff;
+  }
+  #footer1 .contact-list address{
+    margin-bottom: .5em;
+  }
+
 .pieTelefono{
   display: inline-block;
   width: 30%;
