@@ -22,7 +22,7 @@
 
           <div class="col-md-8 text-right  contactoHeaderContenedor">
             <div class="contactoHeader tel1">
-              <p class="headerTelefono"><i class="fa fa-mobile" aria-hidden="true"> </i> 775 154 4642</p>
+              <p class="headerTelefono"><i class="fa fa-mobile" aria-hidden="true"> </i> (791) 913 2313</p>
             </div>
             <div class="contactoHeader">
               <p class="headerCorreo"><i class="fa fa-envelope-o" aria-hidden="true"> </i> atencion@industriajemac.com.mx</p>
