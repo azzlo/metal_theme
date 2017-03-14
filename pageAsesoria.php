@@ -7,131 +7,59 @@
      <div class="col-md-12">
        <h1 class="text-center page-title">Asesoría</h1>
      </div>
-     <div class="col-md-12">
-       <p>
+     <div class="col-md-1"></div>
+     <div class="col-md-10">
+       <p class="font-big">
          Industrias JEMAC a través del área de desarrollo e ingeniería se ofrecen los servicios de asesoramiento técnico para desarrollo de productos de clientes externos y garantizarles el proceso del desarrollo de sus piezas, ofreciendo asistencia a los siguientes servicios:
        </p>
      </div>
+     <div class="col-md-1"></div>
      <div class="row">
        <div class="col-md-2">
-
        </div>
        <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-           Asesoramiento de materiales adecuados para sus diseños.
-         </p>
+         <ul class="asesorias-ul">
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+               Asesoramiento de materiales adecuados para sus diseños.
+             </p>
+           </li>
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+               Asesoramiento en procesos de corte de plasma, segueta y maquinado.
+             </p>
+           </li>
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+                Asesoramiento en desarrollos de soldadura.
+             </p>
+           </li>
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+               Asesoramiento en procesos de pintura.
+             </p>
+           </li>
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+               Asesoramiento en diseño.
+             </p>
+           </li>
+           <li>
+             <p>
+               <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+               Asesoramiento en procesos de limpieza con granalla o sand blast.
+             </p>
+           </li>
+         </ul>
        </div>
        <div class="col-md-2">
-
        </div>
-
      </div>
-     <div class="row">
-       <div class="col-md-2">
-
-       </div>
-       <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-           Asesoramiento en procesos de corte de plasma, segueta y maquinado.
-
-
-         </p>
-       </div>
-       <div class="col-md-2">
-
-       </div>
-
-     </div>
-     <div class="row">
-       <div class="col-md-2">
-
-       </div>
-       <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-
-   Asesoramiento en desarrollos de soldadura.
-
-         </p>
-       </div>
-       <div class="col-md-2">
-
-       </div>
-
-     </div>
-     <div class="row">
-       <div class="col-md-2">
-
-       </div>
-       <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-
-Asesoramiento en procesos de pintura.
-
-         </p>
-       </div>
-       <div class="col-md-2">
-
-       </div>
-
-     </div>
-     <div class="row">
-       <div class="col-md-2">
-
-       </div>
-       <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-
- Asesoramiento en diseño.
-
-         </p>
-       </div>
-       <div class="col-md-2">
-
-       </div>
-
-     </div>
-     <div class="row">
-       <div class="col-md-2">
-
-       </div>
-       <div class="col-md-8 contenedorAsesoria">
-         <div class="estrella enLinea" style="border-radius:50%; border:2px solid #52616D; padding:0.1em 0.3em; margin:1em;">
-           <i class="fa fa-star iconoEstrella"style="color:#C44741; " aria-hidden="true"> </i>
-         </div>
-
-         <p class="enLinea">
-
- Asesoramiento en procesos de limpieza con granalla o sand blast.
-         </p>
-       </div>
-       <div class="col-md-2">
-
-       </div>
-
-     </div>
-
   </div>
-
 </div>
-
- <?php get_footer();?>
+<?php get_footer();?>

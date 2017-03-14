@@ -16,7 +16,7 @@
         <div class="row">
           <div class="col-md-4 col-xs-12">
             <div class="contenedorLogo">
-              <a href="<?php bloginfo('url'); ?>"><img class="logoJemac"  src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/logo.png"/></a>
+              <a href="<?php bloginfo('url'); ?>"><img class="logoJemac"  src="<?php bloginfo(stylesheet_directory) ?>/img/logo.png"/></a>
             </div>
           </div>
 

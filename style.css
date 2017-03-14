@@ -229,6 +229,28 @@ div#imagen:hover p#descripcion {
   display: inline-block;
   margin-right: 1em;
 }
+
+ul.asesorias-ul{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  list-style-type: none;
+}
+  ul.asesorias-ul li{
+    margin-bottom: 2em;
+  }
+  ul.asesorias-ul i{
+    color: #f91313;
+    font-size: 1.5em;
+    margin-right: 1.2em;
+  }
+  ul.asesorias-ul p{
+    background-color: #02a6b1;
+    border-radius: 1.5em;
+    color: white;
+    padding: .5em 1em;
+    font-size: 1.2em;
+  }
+
 #containerAcercaDe{
   margin-left: 7%;
   margin-right: 7%;
@@ -459,6 +481,10 @@ border-left: 1px solid #b9b7b4;
 .page-title{
   background: #fb311d;
   color: white;
+}
+
+.font-big{
+  font-size: 1.3em;
 }
 
 .text-item{
