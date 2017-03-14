@@ -55,12 +55,11 @@
   <div class="row map-container">
     <address>
       <strong>Nuestra ubicación: </strong>
-      Av. Domingo Muñoz Chimalpain 92, Tadeo de Niza,
-      43996 Cd Sahagún, Hgo.
+       Lote 25-4, Zona Industrial, Cd. Sahagún, Hidalgo: 43998
     </address>
     <div class="row">
       <div class="col-md-12">
-        <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4464.870978211661!2d-98.57076241258046!3d19.776641561334856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDQ2JzM0LjYiTiA5OMKwMzQnMDMuNSJX!5e0!3m2!1ses!2smx!4v1487613407336" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+        <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2408.833575404904!2d-98.59483861190992!3d19.756895318954058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx!4v1489522766148" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
       </div>
     </div>
   </div>

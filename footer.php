@@ -4,7 +4,7 @@
         <div class="row" style="height:auto;">
           <div class="col-md-6">
             <p class=""><i class="fa fa-volume-control-phone" aria-hidden="true"> </i> (791) 913 2313</p>
-            <p class=""><i class="fa fa-map-marker" aria-hidden="true"> </i> Parque industrial Sahagun #15, Cd. Sahagun, Hidalgo.</p>
+            <p class=""><i class="fa fa-map-marker" aria-hidden="true"> </i>  Lote 25-4, Zona Industrial, Cd. Sahagún, Hidalgo, C.P. 43998</p>
             <ul class="contact-list">
             <li>
               <strong>Ventas</strong>
