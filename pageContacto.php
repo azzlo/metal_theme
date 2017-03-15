@@ -55,13 +55,47 @@
   <div class="row map-container">
     <address>
       <strong>Nuestra ubicación: </strong>
-       Lote 25-4, Zona Industrial, Cd. Sahagún, Hidalgo: 43998
+       Lote 25-4, Zona Industrial, Cd. Sahagún, Hidalgo, C.P. 43998
     </address>
     <div class="row">
       <div class="col-md-12">
-        <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2408.833575404904!2d-98.59483861190992!3d19.756895318954058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx!4v1489522766148" width="100%" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+        <div id="map"></div>
       </div>
     </div>
   </div>
 </div>
+<script>
+  var marker;
+
+    function initMap() {
+      var myLatLng = {lat: 19.757173, lng: -98.594086};
+
+      // Create a map object and specify the DOM element for display.
+      var map = new google.maps.Map(document.getElementById('map'), {
+        center: myLatLng,
+        scrollwheel: false,
+        zoom: 14
+      });
+
+      // Create a marker and set its position.
+      marker = new google.maps.Marker({
+        map: map,
+        animation: google.maps.Animation.DROP,
+        position: myLatLng,
+        title: 'Industria JEMAC'
+      });
+      marker.addListener('click', toggleBounce);
+    }
+
+    function toggleBounce() {
+if (marker.getAnimation() !== null) {
+  marker.setAnimation(null);
+} else {
+  marker.setAnimation(google.maps.Animation.BOUNCE);
+}
+}
+
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDR57huOHud4jtKwYKCNBUVSkJwweDHVn0&callback=initMap"
+      async defer></script>
 <?php get_footer();?>

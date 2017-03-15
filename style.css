@@ -44,6 +44,13 @@ h6{
     font-family: 'Merriweather', serif;
 }
 
+#map{
+  height: 350px;
+}
+#mapFooter{
+  height: 150px;
+}
+
 .menu-menu-1-container{
   background:#0c4170;
   text-align: center;
@@ -86,6 +93,12 @@ h6{
   background-color: #52616D;
   color: #FFFFFF;
   cursor: pointer;
+
+.by-azzlo{
+  font-family: 'Lora';
+  font-size: .1em;
+  color: white;
+}
 
 }
 .contenedorLogo{
