@@ -590,7 +590,7 @@ border-left: 1px solid #b9b7b4;
 .indexServicios{
   background-color: #f5f5f5;
   box-shadow: 2px 2px 5px rgb(182, 182, 182);
-  background-image: url("img/static1.JPG");
+  background-image: url("img/static1.jpg");
   background-size: cover;
   height: 350px;
   padding: 3em 5em;
@@ -599,7 +599,7 @@ border-left: 1px solid #b9b7b4;
 .indexNosotros{
   background-color: #f5f5f5;
   box-shadow: 2px 2px 5px rgb(182, 182, 182);
-  background-image: url("img/static2.JPG");
+  background-image: url("img/static2.jpg");
   background-size: cover;
   height: 350px;
   padding: 3em 5em;
