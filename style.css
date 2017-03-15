@@ -655,3 +655,19 @@ border-left: 1px solid #b9b7b4;
   border-radius: 0 0 .2em .2em;
   box-shadow: 0 1px 5px grey;
 }
+
+.service-container{
+  background: #f3f3f3;
+  border-radius: .3em;
+  box-shadow: 0 0 5px #696969;
+  padding-bottom: 1em;
+  margin-bottom: 3em;
+}
+
+h2.service-title{
+  background-color: #009bb0;
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: .6em;
+}
