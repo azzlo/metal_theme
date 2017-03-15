@@ -212,9 +212,6 @@ div.imagen1 {
 div.imagen2 {
   background-image: url("img/substatic2.JPG");
 }
-div.imagen3 {
-  background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/corte.JPG");
-}
 
 div#info {
   position:absolute;
@@ -642,3 +639,15 @@ border-left: 1px solid #b9b7b4;
     margin: 0 !important;
 
   }
+
+.page-thumbnail {
+  margin-top: -2em;
+  margin-bottom: 1.5em;
+}
+.page-thumbnail #custom-bg{
+  background-size: cover;
+  background-position: center;
+  height: 10em;
+  border-radius: .2em;
+  box-shadow: 1px 1px 5px grey;
+}

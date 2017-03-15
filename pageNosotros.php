@@ -3,8 +3,20 @@
 ?>
 <?php get_header();?>
 <div class="container page-container">
-  <h1 class="text-center page-title">Quienes somos</h1>
   <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-center page-title">Quienes somos</h1>
+    </div>
+    <div class="col-md-12">
+      <div class="page-thumbnail">
+        <?php if (has_post_thumbnail( $post->ID ) ): ?>
+          <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
+          <div id="custom-bg" style="background-image: url('<?php echo $image[0]; ?>')">
+
+          </div>
+        <?php endif; ?>
+      </div>
+    </div>
     <div class="col-md-12">
       <p>
         INDUSTRIA JEMAC S. DE R.L. DE C.V., ubicada en Domicilio Conocido Lote 25-4, Zona Industrial, Cd. Sahagún, Hidalgo: 43998, es una empresa líder en la fabricación de sub-ensambles del sector metal-mecánica, con una experiencia de más de 25 años en el mercado, contando con los servicios en corte, doblez, maquinado, soldadura y pintura, así como brindar asistencia técnica a nuestros clientes.

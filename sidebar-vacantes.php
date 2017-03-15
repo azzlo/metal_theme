@@ -1,11 +1,19 @@
 <div class="container page-container">
 <div class="row">
   <div class="col-md-12">
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-12">
     <h1 class="text-center page-title">Ultimas Vacantes</h1>
+  </div>
+  <div class="col-md-12">
+    <div class="page-thumbnail">
+      <?php if (has_post_thumbnail( $post->ID ) ): ?>
+        <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
+        <div id="custom-bg" style="background-image: url('<?php echo $image[0]; ?>')">
+
+        </div>
+      <?php endif; ?>
+    </div>
+  </div>
+  <div class="col-md-12">
     <?php
     $args = array('cat' => 3);
     $category_posts = new WP_Query($args);
