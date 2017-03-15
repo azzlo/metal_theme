@@ -20,7 +20,7 @@
       while ($category_posts->have_posts()):
         $category_posts->the_post();
         ?>
-        <div class="container">
+        <div class="container page-container">
           <div class="row">
             <div class="col-md-12 contVacante">
               <article class="articuloVacante">
