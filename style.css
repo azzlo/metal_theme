@@ -199,18 +199,18 @@ cursor: pointer;
   text-align: center;
 }
 div#imagen {
-  width: 300px;
-  height: 200px;
+  position: relative;
+  height: 250px;
+  background-color: #f1efec;
   background-size: cover;/*sólo para ejemplo*/
   margin: 30px auto;
   border-radius: 1em;
-  border:1px solid #52616D;
 }
 div.imagen1 {
-  background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/pintura.JPG");
+  background-image: url("img/substatic1.JPG");
 }
 div.imagen2 {
-  background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/soldadura.JPG");
+  background-image: url("img/substatic2.JPG");
 }
 div.imagen3 {
   background-image: url("http://localhost/wordpress/wp-content/themes/wpt_metal/img/corte.JPG");
@@ -219,12 +219,16 @@ div.imagen3 {
 div#info {
   position:absolute;
   overflow:hidden;
-  width: 300px;
-  height: 200px;
+  width: auto;
+  height: 250px;
   background-color: rgba(44, 52, 59, 0.7);
   opacity:0;
-  transition: opacity 1s;
-  border-radius: 1em;
+  transition: opacity .7s;
+  border-radius: .8em;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 div#imagen:hover div#info {
@@ -246,10 +250,12 @@ div#imagen:hover p#headline {
 }
 
 p#descripcion {
-  font-size: 1.5rem;
+  margin: 0 1em;
+  position: absolute;
+  bottom: 1em;
+  font-size: 1.1em;
   font-family: 'Lato', sans-serif;
   text-align: center;
-  margin-top: 200px;
   transition: margin-top 0.4s;
   color: white;
 }
@@ -257,9 +263,8 @@ p#descripcion {
 div#imagen:hover p#descripcion {
   margin-top: 75px;
 }
-.seccionProducto{
-  display: inline-block;
-  margin-right: 1em;
+.seccionProducto h3{
+  margin-top: .3em;
 }
 
 ul.asesorias-ul{
@@ -586,36 +591,30 @@ border-left: 1px solid #b9b7b4;
   margin-bottom: 0px;
 }
 .indexServicios{
-    background-image: url("img/corte.JPG");
-
-    height: 400px;
-    background-size: cover;
-    padding: 5em;
-    border: 1px solid black;
-    box-shadow: 3px 5px rgb(182, 182, 182);
-    margin-bottom: 2em;
-
-
+  background-color: #f5f5f5;
+  box-shadow: 2px 2px 5px rgb(182, 182, 182);
+  background-image: url("img/static1.JPG");
+  background-size: cover;
+  height: 350px;
+  padding: 3em 5em;
+  margin-bottom: 2em;
 }
 .indexNosotros{
-    background-image: url("img/corte.JPG");
-
-    height: 400px;
-    background-size: cover;
-    padding: 5em;
-    border: 1px solid black;
-    box-shadow: 3px 5px rgb(182, 182, 182);
-    margin-bottom: 2em;
-
-
+  background-color: #f5f5f5;
+  box-shadow: 2px 2px 5px rgb(182, 182, 182);
+  background-image: url("img/static2.JPG");
+  background-size: cover;
+  height: 350px;
+  padding: 3em 5em;
+  margin-bottom: 2em;
 }
 
 .filtro{
   background-color: rgba(0, 0, 0, 0.7);
   width: 100%;
   height: 100%;
-  border-radius: 20px;
-  padding: 2em;
+  border-radius: .8em;
+  padding: 1.7em;
   display: flex;
 }
 .parrafoIndex{
@@ -633,3 +632,13 @@ border-left: 1px solid #b9b7b4;
   justify-content: center;
   padding-bottom: 1em;
 }
+
+.flex-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  .flex-center p{
+    margin: 0 !important;
+
+  }
