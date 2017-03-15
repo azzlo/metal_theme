@@ -653,7 +653,7 @@ border-left: 1px solid #b9b7b4;
   background-position: center;
   height: 10em;
   border-radius: 0 0 .2em .2em;
-  box-shadow: 0 1px 5px grey;
+  box-shadow: 0 2px 4px grey;
 }
 
 .service-container{
@@ -669,5 +669,5 @@ h2.service-title{
   color: white;
   font-weight: bold;
   margin: 0;
-  padding: .6em;
+  padding: .5em 1em;
 }

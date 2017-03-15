@@ -3,7 +3,19 @@
 ?>
 <?php get_header();?>
 <div class="container page-container">
-  <h1 class="text-center page-title">Contacto</h1>
+  <div class="col-md-12">
+    <h1 class="text-center page-title">Contacto</h1>
+  </div>
+  <div class="col-md-12">
+    <div class="page-thumbnail">
+      <?php if (has_post_thumbnail( $post->ID ) ): ?>
+        <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
+        <div id="custom-bg" style="background-image: url('<?php echo $image[0]; ?>')">
+
+        </div>
+      <?php endif; ?>
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-6 text-center">
         <h2>Escribenos directamente o utiliza el formulario de la derecha <i class="fa fa-hand-o-right"></i></h2>
