@@ -15,16 +15,17 @@
         </div>
         <div class="col-md-8">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+            PRENSA DE CORTINA  CNC
+ DE 350 ton. Mesa de long. 3000mm
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/baikal.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
       </div>
 
@@ -42,10 +43,10 @@
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
       </div>
 
@@ -57,16 +58,16 @@
         </div>
         <div class="col-md-8">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+            Dos prensas de cortina CNC de 400 Ton. En tandem 8.600 Mts. De longitud total
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/durman.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
         <div class="col-md-6">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
       </div>
 
@@ -82,13 +83,13 @@
         </div>
         <div class="col-md-7">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+            Abertura 15"
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-12">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/sierraCinta.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
 
       </div>
@@ -107,7 +108,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
 
       </div>
@@ -120,28 +121,32 @@
         </div>
         <div class="col-md-8">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+            Alta definicion, corte plasma, capacidad de corte de 1/2" espesor, cama de 3.5 MT.X14MT.
           </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-12">
-          <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/pantografo.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
         </div>
       </div>
 
     </div>
   </div>
   <div class="row">
-    <h2 class="text-center">Detallado</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
+    <h2 class="text-center">Maquinado CNC</h2>
+
     <div class="col-md-6">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+      <p>
+        1660X510X510 agregar velocidades maquinados en 3d Cambios de herramienta.
+      </p>
+      <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado2.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
     </div>
     <div class="col-md-6">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+      <p>
+        450X500X1000 Agregar velocidades husillo
+      </p>
+      <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado1.jpg" alt="" class="imgServicio" style="width:70%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
     </div>
   </div>
   <div class="row">
@@ -150,7 +155,7 @@
     </div>
     <div class="col-md-6" style="padding:1em;border-left:1px solid rgb(203, 203, 203);border-top:1px solid rgb(203, 203, 203);margin:2em">
       <h3>Tombola</h3>
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+      <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
     </div>
   </div>
   <div class="row">
@@ -158,75 +163,41 @@
     <div class="row">
       <div class="col-md-3">
         <h3 class="text-center">Fresa 1</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
-        <h3 class="text-center">Fresa 2</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <h3 class="text-center">Fresadora Vertical</h3>
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/fresa2.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
         <h3 class="text-center">Fresa 3, taladro convencional</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
         <h3 class="text-center">Punzonadora</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
     </div>
     <div class="row">
       <div class="col-md-3">
         <h3 class="text-center">Roladora</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
         <h3 class="text-center">Taladro radial</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
         <h3 class="text-center">Torno revolver</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
       <div class="col-md-3">
         <h3 class="text-center">Troquel</h3>
-        <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
+        <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
       </div>
     </div>
   </div>
-  <div class="row">
-    <h2 class="text-center">Pintura</h2>
-    <div class="col-md-4">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-    </div>
-  </div>
-  <div class="row">
-    <h2 class="text-center">Soldadura</h2>
-    <div class="col-md-3">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-    </div>
-    <div class="col-md-3">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-    </div>
-    <div class="col-md-3">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-    </div>
-    <div class="col-md-3">
-      <img src="http://localhost/wordpress/wp-content/themes/wpt_metal/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;box-shadow: 3px 3px #52616D; margin:1em;">
-    </div>
-  </div>
+
+
 </div>
 <?php get_footer();?>
