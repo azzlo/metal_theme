@@ -8,7 +8,6 @@
       <?php if (has_post_thumbnail( $post->ID ) ): ?>
         <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
         <div id="custom-bg" style="background-image: url('<?php echo $image[0]; ?>')">
-
         </div>
       <?php endif; ?>
     </div>
@@ -17,7 +16,6 @@
     <?php
     $args = array('cat' => 3);
     $category_posts = new WP_Query($args);
-
     if($category_posts->have_posts()) :
       while ($category_posts->have_posts()):
         $category_posts->the_post();

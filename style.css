@@ -94,10 +94,10 @@ h6{
   color: #FFFFFF;
   cursor: pointer;
 
-.by-azzlo{
+small.by-azzlo{
   font-family: 'Lora';
-  font-size: .1em;
-  color: white;
+  font-size: .1em !important;
+  color: white !important;
 }
 
 }
