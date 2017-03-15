@@ -12,7 +12,7 @@
               </address>
             </li>
             <li>
-              <a href="facebook.com"><i class="fa fa-facebook-official" aria-hidden="true"> </i> Siguenos en Facebook</a>
+              <a href="http://www.facebook.com"><i class="fa fa-facebook-official" aria-hidden="true"> </i> Siguenos en Facebook</a>
             </li>
           </ul>
           </div>
@@ -52,6 +52,24 @@
           title: 'Industria JEMAC'
         });
         marker.addListener('click', toggleBounce);
+
+
+        if (document.getElementById('map') != null){
+          var mapContact = new google.maps.Map(document.getElementById('map'), {
+            center: myLatLng,
+            scrollwheel: false,
+            zoom: 14
+          });
+
+          markerc = new google.maps.Marker({
+            map: mapContact,
+            animation: google.maps.Animation.DROP,
+            position: myLatLng,
+            title: 'Industria JEMAC'
+          });
+          markerc.addListener('click', toggleBounce);
+        }
+
       }
 
       function toggleBounce() {

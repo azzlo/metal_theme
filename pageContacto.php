@@ -64,38 +64,4 @@
     </div>
   </div>
 </div>
-<script>
-  var marker;
-
-    function initMap() {
-      var myLatLng = {lat: 19.757173, lng: -98.594086};
-
-      // Create a map object and specify the DOM element for display.
-      var map = new google.maps.Map(document.getElementById('map'), {
-        center: myLatLng,
-        scrollwheel: false,
-        zoom: 14
-      });
-
-      // Create a marker and set its position.
-      marker = new google.maps.Marker({
-        map: map,
-        animation: google.maps.Animation.DROP,
-        position: myLatLng,
-        title: 'Industria JEMAC'
-      });
-      marker.addListener('click', toggleBounce);
-    }
-
-    function toggleBounce() {
-if (marker.getAnimation() !== null) {
-  marker.setAnimation(null);
-} else {
-  marker.setAnimation(google.maps.Animation.BOUNCE);
-}
-}
-
-  </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDR57huOHud4jtKwYKCNBUVSkJwweDHVn0&callback=initMap"
-      async defer></script>
 <?php get_footer();?>

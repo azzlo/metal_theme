@@ -116,10 +116,14 @@ h6{
   color: #C44741;
 }
 .contactoHeader:hover{
-
   color: #52616D;
   cursor: pointer;
-
+}
+.contactoHeader a{
+  color: #C44741;
+}
+.contactoHeader a:visited{
+  color: #C44741;
 }
 .contactoHeaderContenedor{
   padding-top: 4%;
@@ -648,6 +652,6 @@ border-left: 1px solid #b9b7b4;
   background-size: cover;
   background-position: center;
   height: 10em;
-  border-radius: .2em;
-  box-shadow: 1px 1px 5px grey;
+  border-radius: 0 0 .2em .2em;
+  box-shadow: 0 1px 5px grey;
 }

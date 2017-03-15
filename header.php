@@ -22,10 +22,10 @@
 
           <div class="col-md-8 text-right  contactoHeaderContenedor">
             <div class="contactoHeader tel1">
-              <p class="headerTelefono"><i class="fa fa-mobile" aria-hidden="true"> </i> (791) 913 2313</p>
+              <p class="headerTelefono"><a href="tel:7919132313"><i class="fa fa-mobile" aria-hidden="true"> </i> (791) 913 2313</a></p>
             </div>
             <div class="contactoHeader">
-              <p class="headerCorreo"><i class="fa fa-envelope-o" aria-hidden="true"> </i> ventas@industriajemac.com.mx</p>
+              <p class="headerCorreo"><a href="mailto:ventas@industriajemac.com.mx"><i class="fa fa-envelope-o" aria-hidden="true"> </i> ventas@industriajemac.com.mx</a></p>
             </div>
 
           </div>
