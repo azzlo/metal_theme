@@ -170,7 +170,7 @@
         <div class="col-md-6">
           <h3 class="text-center">Aréa de pintura</h3>
 
-          <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/area2.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
+          <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/pintura2.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
          </figure>
         </div>
       </div>
