@@ -31,37 +31,37 @@
         <ul class="asesorias-ul">
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+              
               Asesoramiento de materiales adecuados para sus diseños.
             </p>
           </li>
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+             
               Asesoramiento en procesos de corte de plasma, segueta y maquinado.
             </p>
           </li>
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+              
               Asesoramiento en desarrollos de soldadura.
             </p>
           </li>
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+              
               Asesoramiento en procesos de pintura.
             </p>
           </li>
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+              
               Asesoramiento en diseño.
             </p>
           </li>
           <li>
             <p>
-              <i class="fa fa-star iconoEstrella"style="color:#C44741;" aria-hidden="true"> </i>
+             
               Asesoramiento en procesos de limpieza con granalla o sand blast.
             </p>
           </li>

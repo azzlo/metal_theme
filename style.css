@@ -1,4 +1,3 @@
-
 /*
 Theme Name: metal_azzlo
 Author: Azzlo Team
@@ -282,7 +281,7 @@ ul.asesorias-ul{
     margin-right: 1.2em;
   }
   ul.asesorias-ul p{
-    background-color: #02a6b1;
+    background-color: #617986;
     border-radius: 1.5em;
     color: white;
     padding: .5em 1em;
@@ -670,4 +669,13 @@ h2.service-title{
   font-weight: bold;
   margin: 0;
   padding: .5em 1em;
+}
+figcaption{
+font-size:20px;
+background:#FEEBB2;
+margin: 0.5em;
+padding: 1em;
+}
+.mvb{
+    margin-right: 180px;
 }
