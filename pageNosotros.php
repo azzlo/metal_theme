@@ -28,7 +28,7 @@
     <div class="col-md-12">
       <h3 class="text-center" >Historia</h3>
       <p style="border-left:1px solid rgb(205, 209, 206);padding:1em;">
-        INDUSTRIA JEMAC S DE R.L DE C.V. Fundada por el Sr. José Joaquín Cruz Ramírez y el Sr. Emilio Flores Maldonado, quienes inician sus actividades en el año de 1990, por lo cual cuenta con más de 25 años de presencia y trayectoria en el mercado.
+        INDUSTRIA JEMAC S DE R.L DE C.V. Fundada por dos socios, quienes inician sus actividades en el año de 1990, por lo cual cuenta con más de 25 años de presencia y trayectoria en el mercado.
         En el comienzo de sus actividades la empresa era atendida por los dos socios, quienes después de su jornada laboral realizaban los pedidos, por lo que se vieron obligados a contratar a sus primeros trabajadores quienes con su experiencia en la metal-mecánica se especializaron en proporcionar sus servicios a empresas como DINA Camiones, KOMATSU y BOMBARDIER.
 
         Conscientes de la necesidad de crecer como empresa, adquieren el primer inmueble en la colonia Rojo Gómez e incrementan su plantilla de trabajadores ofreciendo el servicio de soldadura y corte con pantógrafo de plasma, siendo una de las pocas empresas que en ese momento ofrecían ese servicio.

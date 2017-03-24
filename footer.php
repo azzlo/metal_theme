@@ -1,3 +1,4 @@
+
 <footer id="containerPie">
     <section id="footer1">
       <div class="container" >
@@ -59,10 +60,8 @@
             center: myLatLng,
             scrollwheel: false,
             zoom: 20
-
           });
-          mapContact.setMapTypeId(google.maps.MapTypeId.SATELLITE)
-
+	mapContact.setMapTypeId(google.maps.MapTypeId.SATELLITE)
           markerc = new google.maps.Marker({
             map: mapContact,
             animation: google.maps.Animation.DROP,
