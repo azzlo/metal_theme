@@ -22,7 +22,7 @@
         ?>
         <div class="container page-container">
           <div class="row">
-            <div class="col-md-12 contVacante">
+            <div class="col-md-11 contVacante">
               <article class="articuloVacante">
                 <h3><?php the_title(); ?></h3>
                 <p>

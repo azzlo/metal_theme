@@ -62,31 +62,27 @@
         </div>
         <div class="col-md-6">
           <h3>Sierra cinta</h3>
-          <p>
-            Abertura 15"
-          </p>
+
+
+
           <img src="<?php bloginfo(stylesheet_directory)?>/img/sierraCinta.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
+          <figcaption>Abertura 15"</figcaption>
         </div>
         <div class="col-md-6">
           <h3>Durman</h3>
-          <p>
-            Dos prensas de cortina CNC de 400 Ton. En tandem 8.600 Mts. De longitud total
-          </p>
+
           <img src="<?php bloginfo(stylesheet_directory)?>/img/durman.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
+          <figcaption>Dos prensas de cortina CNC de 400 Ton. En tandem 8.600 Mts. De longitud total</figcaption>
         </div>
-        <div class="col-md-6">
-          <h3>Cizalla</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-          </p>
-          <img src="<?php bloginfo(stylesheet_directory)?>/img/jemac.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
-        </div>
+
         <div class="col-md-6">
           <h3>Pantografo</h3>
-          <p>
-            Alta definicion, corte plasma, capacidad de corte de 1/2" espesor, cama de 3.5 MT.X14MT.
-          </p>
+
           <img src="<?php bloginfo(stylesheet_directory)?>/img/pantografo.JPG" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
+          <figcaption>Alta definicion, corte plasma, capacidad de corte de 1/2" espesor, cama de 3.5 MT.X14MT.</figcaption>
+        </div>
+        <div class="col-md-6">
+
         </div>
       </div>
     </div>
@@ -100,18 +96,16 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h3>????</h3>
-          <p>
-            1660X510X510 agregar velocidades maquinados en 3d Cambios de herramienta.
-          </p>
+          <h3>MAZAK VTC</h3>
+
           <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado2.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
+          <figcaption>1660X510X510 agregar velocidades maquinados en 3d Cambios de herramienta.</figcaption>
         </div>
         <div class="col-md-6">
-          <h3>????</h3>
-          <p>
-            450X500X1000 Agregar velocidades husillo
-          </p>
+          <h3>MVB-610</h3>
+
           <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado1.jpg" alt="" class="imgServicio" style="width:70%; height:auto; border-radius:5px;">
+          <figcaption>  450X500X1000 Agregar velocidades husillo</figcaption>
         </div>
       </div>
     </div>
@@ -149,7 +143,7 @@
           <h3 class="text-center">Soldadora arco sumergido</h3>
 
           <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/soldadora.jpg" alt="" class="imgServicio" style="width:100%; height:auto; border-radius:5px;">
-          <figcaption>?????</figcaption></figure>
+          </figure>
         </div>
         <div class="col-md-6">
           <h3 class="text-center">Maquinas Soldadoras</h3>

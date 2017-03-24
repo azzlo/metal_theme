@@ -58,8 +58,10 @@
           var mapContact = new google.maps.Map(document.getElementById('map'), {
             center: myLatLng,
             scrollwheel: false,
-            zoom: 14
+            zoom: 20
+
           });
+          mapContact.setMapTypeId(google.maps.MapTypeId.SATELLITE)
 
           markerc = new google.maps.Marker({
             map: mapContact,
