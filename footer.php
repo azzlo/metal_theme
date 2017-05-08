@@ -13,7 +13,7 @@
               </address>
             </li>
             <li>
-              <a href="http://www.facebook.com"><i class="fa fa-facebook-official" aria-hidden="true"> </i> Siguenos en Facebook</a>
+              <a href="https://www.facebook.com/Industria-JEMAC-1544354718917174/"><i class="fa fa-facebook-official" aria-hidden="true"> </i> Siguenos en Facebook</a>
             </li>
           </ul>
           </div>
