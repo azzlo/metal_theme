@@ -6,38 +6,34 @@
       the_post();
       ?>
       <div class="row">
-        <div class="col-md-2">
-        </div>
-        <div class="col-md-4">
-          <h1 class="text-center"> <?php the_title(); ?></h1>
-        </div>
-        <div class="col-md-4">
-          <h3><b>  <?php the_date(); ?></b></h3>
+        <div class="col-md-12">
+          <h1>
+            <?php the_title(); ?> <br>
+            <small><?php the_date(); ?></small>
+          </h1>
         </div>
       </div>
       <div class="row contVacante">
         <h3>Requisitos:</h3>
       </div>
 
-      <article class="">
+      <article>
         <div class="row">
-          <div class="col-md-1">
-
-          </div>
-          <div class="col-md-11 articuloVacante">
+          <div class="col-md-12 articuloVacante">
             <p>
               <?php the_content(); ?>
             </p>
           </div>
-          <footer>
-          </footer>
+          <div class="col-md-12 text-right">
+            <a href="contacto" class="btn-cta">Ponerme en contacto</a>
+          </div>
         </div>
       </article>
   <?php
     endwhile;
     else :
   ?>
-      <h3 class="text-center">Huy, no se ha ecnontrado vacantes</h3>
+      <h3 class="text-center">¡Vaya!, en este momento no tenemos vacantes, pronto publicaremos en esta sección.</h3>
   <?php
     endif;
   ?>

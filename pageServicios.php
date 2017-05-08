@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h3>Prensa de Cortina CNC Baikal</h3>
+          <h3 class="text-center">Prensa de Cortina CNC Baikal</h3>
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/baikal.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
@@ -32,18 +32,17 @@
             </figcaption>
           </figure>
 
-        </div>
-        <div class="col-md-6">
-          <h3>Prensa de Cortina Durman</h3>
+          <h3 class="text-center">Prensa de Cortina Durman</h3>
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/durman.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
               <p>CNC de 400 Ton. En TANDEM  8.600 Mts de longitud total.</p>
             </figcaption>
           </figure>
+
         </div>
         <div class="col-md-6">
-          <h3>Prensa Convencional</h3>
+          <h3 class="text-center">Prensa Convencional</h3>
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/convencional.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
@@ -120,7 +119,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h3>Sierra Cinta</h3>
+          <h3 class="text-center">Sierra Cinta</h3>
           <img src="<?php bloginfo(stylesheet_directory)?>/img/sierraCinta.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
           <figcaption>
             <p>La sierra cinta es la más popular de las sierras, debido al uso continuo de toda la cinta, resultando en cortes uniformes por la distribución constante de la carga de corte en cada diente de la sierra.</p>
@@ -162,8 +161,8 @@
         </div>
 
         <div class="col-md-6">
-          <h3>Pantógrafo</h3>
-          <img src="<?php bloginfo(stylesheet_directory)?>/img/pantografo.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
+          <h3 class="text-center">Pantógrafo</h3>
+          <img src="<?php bloginfo(stylesheet_directory)?>/img/pantografo.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
           <figcaption>
             <table>
               <tbody>
@@ -203,7 +202,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h3>MAZAK VTC-20C</h3>
+          <h3 class="text-center">MAZAK VTC-20C</h3>
           <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado2.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
           <figcaption>
             <ul>
@@ -246,7 +245,7 @@
           </figcaption>
         </div>
         <div class="col-md-6">
-          <h3>CNC MCV - 610</h3>
+          <h3 class="text-center">CNC MCV - 610</h3>
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinado1.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
@@ -338,75 +337,132 @@
         </div>
         <div class="col-md-6">
           <h3 class="text-center">Fresadora Vertical</h3>
+          <figure>
+            <img src="<?php bloginfo(stylesheet_directory)?>/img/fresa2.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
+            <figcaption>1700x500x400 Hidraulica de alta produccion (copiadora)</figcaption>
+          </figure>
 
-          <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/fresa2.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
-          <figcaption>1700x500x400 Hidraulica de alta produccion (copiadora)</figcaption></figure>
-        </div>
-        <div class="col-md-6">
           <h3 class="text-center">Fresadora Induma</h3>
           <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/fresa1.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
-          <figcaption>
-            <p>Máquina para fresar; está compuesta de un cabezal, dotado de un movimiento de rotación, con una fresa (herramienta cortante), y de una mesa, también dotada de un mecanismo de movimiento, donde se fija la pieza.</p>
-            <table>
-              <thead>
-                <th colspan="2">ESPECIFICACIONES</th>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Longitud de la mesa de trabajo</td>
-                  <td>1500mm</td>
-                </tr>
-                <tr>
-                  <td>Ancho de la mesa de trabajo</td>
-                  <td>300mm</td>
-                </tr>
-                <tr>
-                  <td>Potencia del mando del husillo</td>
-                  <td>6kW</td>
-                </tr>
-                <tr>
-                  <td>Número de velocidades de giro del husillo vertical</td>
-                  <td>12 pzs</td>
-                </tr>
-                <tr>
-                  <td>Velocidad de giro mínima del husillo vertical</td>
-                  <td>30 1/min</td>
-                </tr>
-                <tr>
-                  <td>Velocidad de giro máxima de husillo vertical</td>
-                  <td>1500 1/min</td>
-                </tr>
-                <tr>
-                  <td>Longitud de recorrido en el eje X (Avance mecánico)</td>
-                  <td>1050mm</td>
-                </tr>
-                <tr>
-                  <td>Longitud de recorrido en el eje Y (Avance mecánico)</td>
-                  <td>325mm</td>
-                </tr>
-                <tr>
-                  <td>Longitud de recorrido en el eje Z (Avance mecánico)</td>
-                  <td>500mm</td>
-                </tr>
-                <tr>
-                  <td>Velocidad de avance máxima en el eje X</td>
-                  <td>41.7 mm/s</td>
-                </tr>
-                <tr>
-                  <td>Velocidad de avance máxima en el eje Y</td>
-                  <td>41.7 mm/s</td>
-                </tr>
-                <tr>
-                  <td>Velocidad de avance máxima en el eje Z</td>
-                  <td>41.7 mm/s</td>
-                </tr>
-                <tr>
-                  <td>Peso de la máquina</td>
-                  <td>2.9 t</td>
-                </tr>
-              </tbody>
-            </table>
-          </figcaption></figure>
+            <figcaption>
+              <p>Máquina para fresar; está compuesta de un cabezal, dotado de un movimiento de rotación, con una fresa (herramienta cortante), y de una mesa, también dotada de un mecanismo de movimiento, donde se fija la pieza.</p>
+              <table>
+                <thead>
+                  <th colspan="2">ESPECIFICACIONES</th>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Longitud de la mesa de trabajo</td>
+                    <td>1500mm</td>
+                  </tr>
+                  <tr>
+                    <td>Ancho de la mesa de trabajo</td>
+                    <td>300mm</td>
+                  </tr>
+                  <tr>
+                    <td>Potencia del mando del husillo</td>
+                    <td>6kW</td>
+                  </tr>
+                  <tr>
+                    <td>Número de velocidades de giro del husillo vertical</td>
+                    <td>12 pzs</td>
+                  </tr>
+                  <tr>
+                    <td>Velocidad de giro mínima del husillo vertical</td>
+                    <td>30 1/min</td>
+                  </tr>
+                  <tr>
+                    <td>Velocidad de giro máxima de husillo vertical</td>
+                    <td>1500 1/min</td>
+                  </tr>
+                  <tr>
+                    <td>Longitud de recorrido en el eje X (Avance mecánico)</td>
+                    <td>1050mm</td>
+                  </tr>
+                  <tr>
+                    <td>Longitud de recorrido en el eje Y (Avance mecánico)</td>
+                    <td>325mm</td>
+                  </tr>
+                  <tr>
+                    <td>Longitud de recorrido en el eje Z (Avance mecánico)</td>
+                    <td>500mm</td>
+                  </tr>
+                  <tr>
+                    <td>Velocidad de avance máxima en el eje X</td>
+                    <td>41.7 mm/s</td>
+                  </tr>
+                  <tr>
+                    <td>Velocidad de avance máxima en el eje Y</td>
+                    <td>41.7 mm/s</td>
+                  </tr>
+                  <tr>
+                    <td>Velocidad de avance máxima en el eje Z</td>
+                    <td>41.7 mm/s</td>
+                  </tr>
+                  <tr>
+                    <td>Peso de la máquina</td>
+                    <td>2.9 t</td>
+                  </tr>
+                </tbody>
+              </table>
+            </figcaption></figure>
+
+        </div>
+        <div class="col-md-6">
+          <h3 class="text-center">Taladro Radial</h3>
+          <figure>
+            <img src="<?php bloginfo(stylesheet_directory)?>/img/taladro_radial.jpg" alt="" class="imgServicio" style="width: 100%; height: auto;">
+            <figcaption>
+              <p>Taladros Radiales que tienen un brazo radial que permite la colocación de la cabeza a distintas distancias de la columna y además la rotación de la cabeza alrededor de la columna. Con la combinación de movimiento de la cabeza, se puede colocar y sujetar el husillo para taladrar en cualquier lugar dentro del alcance de la máquina, al contrario de la operación de los taladros de columna, los cuales tienen una posición fija del husillo. Esta flexibilidad de colocación del husillo hace a los taladros radiales especialmente apropiados para piezas grandes. Estas máquinas proporcionan una gran capacidad y flexibilidad de aplicaciones a un costo relativamente bajo. Con diámetro de taladrado de 80 mm, recorrido del husillo de 450 mm y con buena superficie de mesa.</p>
+              <table>
+                <thead>
+                  <th colspan="2">ESPECIFICACIONES</th>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Diámetro del taladro</td>
+                    <td>80 mm</td>
+                  </tr>
+                  <tr>
+                    <td>Recorrido del husillo</td>
+                    <td>450 mm </td>
+                  </tr>
+                  <tr>
+                    <td>Cono para el husillo MORSE</td>
+                    <td>6</td>
+                  </tr>
+                  <tr>
+                    <td>Superficie de sujeción de la mesa</td>
+                    <td>800 X 1000 mm</td>
+                  </tr>
+                  <tr>
+                    <td>Distancia entre el eje del husillo y la columna</td>
+                    <td>500 - 2500 mm</td>
+                  </tr>
+                  <tr>
+                    <td>Número de velocidades del husillo</td>
+                    <td>16</td>
+                  </tr>
+                  <tr>
+                    <td>Revoluciones del husillo alcance de revoluciones</td>
+                    <td>16 - 1250 Rev./min</td>
+                  </tr>
+                  <tr>
+                    <td>Motor capacidad</td>
+                    <td>7.5 KW</td>
+                  </tr>
+                  <tr>
+                    <td>Peso máquina</td>
+                    <td>11000 kilos</td>
+                  </tr>
+                  <tr>
+                    <td>Dimensiones de la máquina</td>
+                    <td>3730 X 1400 X 4025</td>
+                  </tr>
+                </tbody>
+              </table>
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>
@@ -418,7 +474,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <h3 class="text-center">Soldadora arco sumergido</h3>
+          <h3 class="text-center">Soldadora arco sumergido.</h3>
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/soldadora.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
@@ -432,7 +488,7 @@
           <figure>
             <img src="<?php bloginfo(stylesheet_directory)?>/img/maquinaSoldadora.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
             <figcaption>
-              <p>LINCOLN 400 amp. MULTIPRPOCESOS. MIG, MAG, TUBULAR, TIG.</p>
+              <p>LINCOLN 400 amp. Multiprocesos. MIG, MAG, Tubular, TIG.</p>
             </figcaption>
           </figure>
         </div>
@@ -448,13 +504,20 @@
         <div class="col-md-6">
           <h3 class="text-center">Aréa de inspección</h3>
 
-          <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/area1.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
-          <figcaption>Area de inspeccion con mesa de marmol e instrumentos de medicion</figcaption></figure>
+          <figure>
+            <img src="<?php bloginfo(stylesheet_directory)?>/img/area1.jpg" alt="" class="imgServicio" style="width:100%; height:auto;">
+            <figcaption>
+              <p>Area de inspeccion con mesa de marmol e instrumentos de medicion.</p>
+            </figcaption>
+          </figure>
         </div>
         <div class="col-md-6">
           <h3 class="text-center">Aréa de pintura</h3>
-
-          <figure><img src="<?php bloginfo(stylesheet_directory)?>/img/pintura2.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
+          <figure>
+            <img src="<?php bloginfo(stylesheet_directory)?>/img/pintura2.JPG" alt="" class="imgServicio" style="width:100%; height:auto;">
+            <figcaption>
+              <p>Contamos con area de pintura para un acabado industrial.</p>
+            </figcaption>
          </figure>
         </div>
       </div>

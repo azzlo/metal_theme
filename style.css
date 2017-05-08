@@ -213,7 +213,7 @@ div.imagen1 {
   background-image: url("img/substatic1.JPG");
 }
 div.imagen2 {
-  background-image: url("img/substatic2.JPG");
+  background-image: url("img/capacitacion.jpg");
 }
 
 div#info {
@@ -444,6 +444,26 @@ button.submit:active {
 	border: 1px solid #222;
 	box-shadow: 0 0 10px 5px #444 inset;
 }
+
+.btn-cta{
+  background-color: #c11f1f;
+  color: white;
+  padding: 1em 4em;
+  margin: 2em 1em;
+  font-size: 1.2em;
+  display: inline-block;
+  border-bottom: 4px solid #f06a38;
+  transition: all 1s;
+}
+
+.btn-cta:hover{
+  background-color: #f06a38;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 4px solid #c11f1f;
+}
+
 .tituloContacto{
   text-align: center;
 }
@@ -485,16 +505,12 @@ button.submit:active {
   margin: 2%;
 }
 .contVacante{
-  margin: 1em !important;
-  border: 2px solid #52616D;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  padding: 1em;
-  padding-left: 2em;
-  box-shadow: 5px 3px #b9b7b4;
+  margin-left: 1em;
+  box-shadow: 0 2px #b9b7b4;
+  margin-bottom: 2em;
 }
 .articuloVacante{
-padding-left: 1em !important;
+margin-left: 2em !important;
 border-left: 1px solid #b9b7b4;
 }
 .autorVacante{
@@ -522,7 +538,7 @@ border-left: 1px solid #b9b7b4;
 }
 
 .page-title{
-  background: #fb311d;
+  background: #ec2f1d;
   color: white;
 }
 

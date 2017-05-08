@@ -7,7 +7,7 @@
         </div>
         <div class="col-md-6 flex-center">
           <p class="parrafoIndex font-big">
-            Utilizamos herramientas de ultima tecnologia con el fin de satisfacer las expectativas de nuestros clientes y ofrecer siempre un producto de calidad.
+            Utilizamos herramientas de ultima tecnología con el fin de satisfacer las expectativas de nuestros clientes y ofrecer siempre un producto de calidad.
           </p>
         </div>
       </div>
