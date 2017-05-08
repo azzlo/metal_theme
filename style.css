@@ -8,7 +8,7 @@ Author URI: http://azzlo.co
 @import url("css/bootstrap.min.css");
 
 body{
-  background: #FEFEFE;
+  background: white;
   font-family: 'Lato', sans-serif;
   font-size: 16px;
   margin: 0;
@@ -506,7 +506,7 @@ border-left: 1px solid #b9b7b4;
   font-weight: 600;
 }
 .imgServicio{
-  border-radius: 10%;
+  border-radius:  .4em .4em 0 0;
 }
 
 .full{
@@ -663,6 +663,32 @@ border-left: 1px solid #b9b7b4;
   margin-bottom: 3em;
 }
 
+  .service-container figcaption table{
+    background: #fbfbfb;
+    border-color: black;
+    border-radius: .2em;
+    font-size: .7em;
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  .service-container figcaption th{
+    background: #ffdd78;
+    text-align: center;
+  }
+
+  .service-container tbody th{
+    text-align: left;
+  }
+
+  .service-container figcaption td{
+    padding: .15em .5em;
+  }
+
+  .service-container figcaption tr:nth-child(odd){
+    background: #eeeeee;
+  }
+
 h2.service-title{
   background-color: #009bb0;
   color: white;
@@ -673,8 +699,9 @@ h2.service-title{
 figcaption{
 font-size:20px;
 background:#FEEBB2;
-margin: 0.5em;
 padding: 1em;
+border-radius: 0 0 .4em .4em;
+box-shadow: 0 3px 0 #6b6b6b;
 }
 .mvb{
     margin-right: 180px;
