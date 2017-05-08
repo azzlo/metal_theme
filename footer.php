@@ -27,7 +27,7 @@
       <div class="pieCopy">
         <div class="container">
           <small>Copyright. 2017, Industria JEMAC S. DE R.L. DE C.V. Todos los derechos reservados.</small><br>
-          <small class="by-azzlo">Website by <a href="http://azzlo.co"><strong>azzlo</strong></a></small>
+          <small class="by-azzlo">Website by <a href="http://azzlo.pro"><strong>azzlo</strong></a></small>
         </div>
       </div>
     </section>
